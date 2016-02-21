@@ -4,6 +4,8 @@ package com.vinit.mypocket;
 
 import android.app.Activity;
 
+import com.vinit.mypocket.util.MyPocketLog;
+
 import android.app.ActionBar;
 import android.app.Fragment;
 import android.app.FragmentManager;
@@ -21,6 +23,7 @@ import android.widget.ArrayAdapter;
 import android.widget.TextView;
 
 public class MyPocketActivity extends Activity implements NavigationDrawerFragment.NavigationDrawerCallbacks {
+	private final String TAG = "MyPocketActivity";
 
 	/**
 	 * Fragment managing the behaviors, interactions and presentation of the
@@ -38,6 +41,10 @@ public class MyPocketActivity extends Activity implements NavigationDrawerFragme
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_my_pocket);
+		
+		
+		
+		MyPocketLog.i(TAG, "onCreate method called");
 
 		mNavigationDrawerFragment = (NavigationDrawerFragment) getFragmentManager()
 				.findFragmentById(R.id.navigation_drawer);
