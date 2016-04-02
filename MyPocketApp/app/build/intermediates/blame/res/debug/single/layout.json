@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\VideoTutorial\\Android\\LyndaAndroidStudioEssentialTraningExample\\MyPocketGit\\MyPocketApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_navigation_drawer.xml",
+        "source": "D:\\VideoTutorial\\Android\\LyndaAndroidStudioEssentialTraningExample\\MyPocketGit\\MyPocketApp\\app\\src\\main\\res\\layout\\fragment_navigation_drawer.xml"
+    },
+    {
+        "merged": "D:\\VideoTutorial\\Android\\LyndaAndroidStudioEssentialTraningExample\\MyPocketGit\\MyPocketApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_my_pocket.xml",
+        "source": "D:\\VideoTutorial\\Android\\LyndaAndroidStudioEssentialTraningExample\\MyPocketGit\\MyPocketApp\\app\\src\\main\\res\\layout\\fragment_my_pocket.xml"
+    },
+    {
+        "merged": "D:\\VideoTutorial\\Android\\LyndaAndroidStudioEssentialTraningExample\\MyPocketGit\\MyPocketApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_pocket.xml",
+        "source": "D:\\VideoTutorial\\Android\\LyndaAndroidStudioEssentialTraningExample\\MyPocketGit\\MyPocketApp\\app\\src\\main\\res\\layout\\activity_my_pocket.xml"
+    }
+]

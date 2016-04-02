@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\VideoTutorial\\Android\\LyndaAndroidStudioEssentialTraningExample\\MyPocketGit\\MyPocketApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drawer_shadow.9.png",
+        "source": "D:\\VideoTutorial\\Android\\LyndaAndroidStudioEssentialTraningExample\\MyPocketGit\\MyPocketApp\\app\\src\\main\\res\\drawable-hdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "D:\\VideoTutorial\\Android\\LyndaAndroidStudioEssentialTraningExample\\MyPocketGit\\MyPocketApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\VideoTutorial\\Android\\LyndaAndroidStudioEssentialTraningExample\\MyPocketGit\\MyPocketApp\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\VideoTutorial\\Android\\LyndaAndroidStudioEssentialTraningExample\\MyPocketGit\\MyPocketApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_drawer.png",
+        "source": "D:\\VideoTutorial\\Android\\LyndaAndroidStudioEssentialTraningExample\\MyPocketGit\\MyPocketApp\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
+    }
+]

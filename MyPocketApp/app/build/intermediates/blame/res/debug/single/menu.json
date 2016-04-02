@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\VideoTutorial\\Android\\LyndaAndroidStudioEssentialTraningExample\\MyPocketGit\\MyPocketApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\global.xml",
+        "source": "D:\\VideoTutorial\\Android\\LyndaAndroidStudioEssentialTraningExample\\MyPocketGit\\MyPocketApp\\app\\src\\main\\res\\menu\\global.xml"
+    },
+    {
+        "merged": "D:\\VideoTutorial\\Android\\LyndaAndroidStudioEssentialTraningExample\\MyPocketGit\\MyPocketApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\my_pocket.xml",
+        "source": "D:\\VideoTutorial\\Android\\LyndaAndroidStudioEssentialTraningExample\\MyPocketGit\\MyPocketApp\\app\\src\\main\\res\\menu\\my_pocket.xml"
+    }
+]
